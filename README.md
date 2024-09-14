@@ -1,1 +1,0 @@
-# problemaMegoldasProgramozassal24-25
