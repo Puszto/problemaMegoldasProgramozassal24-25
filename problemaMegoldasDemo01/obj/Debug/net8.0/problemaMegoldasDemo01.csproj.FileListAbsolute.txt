@@ -1,0 +1,14 @@
+C:\Users\ifjko\source\repos\problemaMegoldasDemo01\bin\Debug\net8.0\problemaMegoldasDemo01.exe
+C:\Users\ifjko\source\repos\problemaMegoldasDemo01\bin\Debug\net8.0\problemaMegoldasDemo01.deps.json
+C:\Users\ifjko\source\repos\problemaMegoldasDemo01\bin\Debug\net8.0\problemaMegoldasDemo01.runtimeconfig.json
+C:\Users\ifjko\source\repos\problemaMegoldasDemo01\bin\Debug\net8.0\problemaMegoldasDemo01.dll
+C:\Users\ifjko\source\repos\problemaMegoldasDemo01\bin\Debug\net8.0\problemaMegoldasDemo01.pdb
+C:\Users\ifjko\source\repos\problemaMegoldasDemo01\obj\Debug\net8.0\problemaMegoldasDemo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifjko\source\repos\problemaMegoldasDemo01\obj\Debug\net8.0\problemaMegoldasDemo01.AssemblyInfoInputs.cache
+C:\Users\ifjko\source\repos\problemaMegoldasDemo01\obj\Debug\net8.0\problemaMegoldasDemo01.AssemblyInfo.cs
+C:\Users\ifjko\source\repos\problemaMegoldasDemo01\obj\Debug\net8.0\problemaMegoldasDemo01.csproj.CoreCompileInputs.cache
+C:\Users\ifjko\source\repos\problemaMegoldasDemo01\obj\Debug\net8.0\problemaMegoldasDemo01.dll
+C:\Users\ifjko\source\repos\problemaMegoldasDemo01\obj\Debug\net8.0\refint\problemaMegoldasDemo01.dll
+C:\Users\ifjko\source\repos\problemaMegoldasDemo01\obj\Debug\net8.0\problemaMegoldasDemo01.pdb
+C:\Users\ifjko\source\repos\problemaMegoldasDemo01\obj\Debug\net8.0\problemaMegoldasDemo01.genruntimeconfig.cache
+C:\Users\ifjko\source\repos\problemaMegoldasDemo01\obj\Debug\net8.0\ref\problemaMegoldasDemo01.dll
