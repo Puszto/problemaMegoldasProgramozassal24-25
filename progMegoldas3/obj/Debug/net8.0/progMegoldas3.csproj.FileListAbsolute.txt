@@ -1,0 +1,14 @@
+C:\Users\ifjko\source\repos\progMegoldas3\bin\Debug\net8.0\progMegoldas3.exe
+C:\Users\ifjko\source\repos\progMegoldas3\bin\Debug\net8.0\progMegoldas3.deps.json
+C:\Users\ifjko\source\repos\progMegoldas3\bin\Debug\net8.0\progMegoldas3.runtimeconfig.json
+C:\Users\ifjko\source\repos\progMegoldas3\bin\Debug\net8.0\progMegoldas3.dll
+C:\Users\ifjko\source\repos\progMegoldas3\bin\Debug\net8.0\progMegoldas3.pdb
+C:\Users\ifjko\source\repos\progMegoldas3\obj\Debug\net8.0\progMegoldas3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifjko\source\repos\progMegoldas3\obj\Debug\net8.0\progMegoldas3.AssemblyInfoInputs.cache
+C:\Users\ifjko\source\repos\progMegoldas3\obj\Debug\net8.0\progMegoldas3.AssemblyInfo.cs
+C:\Users\ifjko\source\repos\progMegoldas3\obj\Debug\net8.0\progMegoldas3.csproj.CoreCompileInputs.cache
+C:\Users\ifjko\source\repos\progMegoldas3\obj\Debug\net8.0\progMegoldas3.dll
+C:\Users\ifjko\source\repos\progMegoldas3\obj\Debug\net8.0\refint\progMegoldas3.dll
+C:\Users\ifjko\source\repos\progMegoldas3\obj\Debug\net8.0\progMegoldas3.pdb
+C:\Users\ifjko\source\repos\progMegoldas3\obj\Debug\net8.0\progMegoldas3.genruntimeconfig.cache
+C:\Users\ifjko\source\repos\progMegoldas3\obj\Debug\net8.0\ref\progMegoldas3.dll
