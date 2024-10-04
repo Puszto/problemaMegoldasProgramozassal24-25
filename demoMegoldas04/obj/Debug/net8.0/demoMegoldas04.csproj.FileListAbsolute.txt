@@ -1,0 +1,14 @@
+C:\Users\ifjko\source\repos\demoMegoldas04\bin\Debug\net8.0\demoMegoldas04.exe
+C:\Users\ifjko\source\repos\demoMegoldas04\bin\Debug\net8.0\demoMegoldas04.deps.json
+C:\Users\ifjko\source\repos\demoMegoldas04\bin\Debug\net8.0\demoMegoldas04.runtimeconfig.json
+C:\Users\ifjko\source\repos\demoMegoldas04\bin\Debug\net8.0\demoMegoldas04.dll
+C:\Users\ifjko\source\repos\demoMegoldas04\bin\Debug\net8.0\demoMegoldas04.pdb
+C:\Users\ifjko\source\repos\demoMegoldas04\obj\Debug\net8.0\demoMegoldas04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifjko\source\repos\demoMegoldas04\obj\Debug\net8.0\demoMegoldas04.AssemblyInfoInputs.cache
+C:\Users\ifjko\source\repos\demoMegoldas04\obj\Debug\net8.0\demoMegoldas04.AssemblyInfo.cs
+C:\Users\ifjko\source\repos\demoMegoldas04\obj\Debug\net8.0\demoMegoldas04.csproj.CoreCompileInputs.cache
+C:\Users\ifjko\source\repos\demoMegoldas04\obj\Debug\net8.0\demoMegoldas04.dll
+C:\Users\ifjko\source\repos\demoMegoldas04\obj\Debug\net8.0\refint\demoMegoldas04.dll
+C:\Users\ifjko\source\repos\demoMegoldas04\obj\Debug\net8.0\demoMegoldas04.pdb
+C:\Users\ifjko\source\repos\demoMegoldas04\obj\Debug\net8.0\demoMegoldas04.genruntimeconfig.cache
+C:\Users\ifjko\source\repos\demoMegoldas04\obj\Debug\net8.0\ref\demoMegoldas04.dll
