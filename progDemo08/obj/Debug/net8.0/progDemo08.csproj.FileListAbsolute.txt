@@ -1,0 +1,14 @@
+C:\Users\ifjko\source\repos\progDemo08\bin\Debug\net8.0\progDemo08.exe
+C:\Users\ifjko\source\repos\progDemo08\bin\Debug\net8.0\progDemo08.deps.json
+C:\Users\ifjko\source\repos\progDemo08\bin\Debug\net8.0\progDemo08.runtimeconfig.json
+C:\Users\ifjko\source\repos\progDemo08\bin\Debug\net8.0\progDemo08.dll
+C:\Users\ifjko\source\repos\progDemo08\bin\Debug\net8.0\progDemo08.pdb
+C:\Users\ifjko\source\repos\progDemo08\obj\Debug\net8.0\progDemo08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifjko\source\repos\progDemo08\obj\Debug\net8.0\progDemo08.AssemblyInfoInputs.cache
+C:\Users\ifjko\source\repos\progDemo08\obj\Debug\net8.0\progDemo08.AssemblyInfo.cs
+C:\Users\ifjko\source\repos\progDemo08\obj\Debug\net8.0\progDemo08.csproj.CoreCompileInputs.cache
+C:\Users\ifjko\source\repos\progDemo08\obj\Debug\net8.0\progDemo08.dll
+C:\Users\ifjko\source\repos\progDemo08\obj\Debug\net8.0\refint\progDemo08.dll
+C:\Users\ifjko\source\repos\progDemo08\obj\Debug\net8.0\progDemo08.pdb
+C:\Users\ifjko\source\repos\progDemo08\obj\Debug\net8.0\progDemo08.genruntimeconfig.cache
+C:\Users\ifjko\source\repos\progDemo08\obj\Debug\net8.0\ref\progDemo08.dll
